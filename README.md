@@ -21,14 +21,14 @@ Welcome to the official GitHub repository of **Makerspace Friendlies 2026**, an 
 
 ## 📁 Repository Structure
 📦 makerspace-friendlies-2026/
-├── hardware-design/         # CAD models, schematics, and mechanical documentation
-├── firmware/                # Microcontroller and low-level control code
-├── navigation-algorithms/   # Maze-solving logic and autonomous behavior
-├── ball-shooter/            # Shooting mechanism code and control logic
-├── vision-system/           # Optional: computer vision scripts (e.g., OpenCV)
-├── docs/                    # Rules, scoring, setup guides, and team documentation
-├── simulations/             # Gazebo/Unity/Webots setups (if any)
-└── README.md                # You are here!
+├── hardware-design/         # CAD models, schematics, and mechanical documentation  
+├── firmware/                # Microcontroller and low-level control code  
+├── navigation-algorithms/   # Maze-solving logic and autonomous behavior  
+├── ball-shooter/            # Shooting mechanism code and control logic  
+├── vision-system/           # Optional: computer vision scripts (e.g., OpenCV)  
+├── docs/                    # Rules, scoring, setup guides, and team documentation  
+├── simulations/             # Gazebo/Unity/Webots setups (if any)  
+└── README.md                # You are here!  
 
 
 
