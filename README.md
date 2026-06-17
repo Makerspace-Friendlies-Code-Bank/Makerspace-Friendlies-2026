@@ -1,3 +1,17 @@
+
+# YOLOv11 Training DataSet
+
+```python
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="Lc5Zsror7KEAPwVHhhr4")
+project = rf.workspace("eureka-c2uug").project("makerspace")
+version = project.version(3)
+dataset = version.download("yolov11")
+```
+
+
 ## 🚀 Makerspace Friendlies 2026 – Rapidfire Rover Challenge
 
 Welcome to the official GitHub repository of **Makerspace Friendlies 2026**, an inter-varsity robotics showdown celebrating engineering creativity, collaboration, and cutting-edge maker skills.
@@ -59,3 +73,4 @@ Coming soon: photos, demo videos, and behind-the-scenes footage from our Makersp
 
 Made with 💡 by the organizing committees of NTU Garage@EEE and SUTD Makerspace  
 📍 *Singapore, 2026*
+
